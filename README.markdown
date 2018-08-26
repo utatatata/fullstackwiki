@@ -1,5 +1,6 @@
 # fullstackwiki
 
+[Full Stack Lisp](https://leanpub.com/fullstacklisp/read)
 
 
 ## Usage
